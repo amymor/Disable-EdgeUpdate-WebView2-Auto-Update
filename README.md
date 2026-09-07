@@ -3,15 +3,10 @@ Batch script to disable automatic Edge WebView2 updates while allowing manual up
 
 ### What this [batch script](Microsoft.Edge.WebView2-disable-update.bat) does
 
- [1/6] Disable Edge Update services
- 
- [2/6] Disable Edge Update scheduled tasks
- 
- [3/6] Stop Edge Update processes
- 
- [4/6] Remove Edge Update folders
- 
- [5/6] Create dummy EdgeUpdate
- 
- [6/6] Add registry policies to disable Edge/WebView2 updates
+ 1. Disable Edge Update services
+ 2. Disable Edge Update scheduled tasks
+ 3. Stop Edge Update processes
+ 4. Remove Edge Update folders
+ 5. Create dummy EdgeUpdate
+ 6. Add registry policies to disable Edge/WebView2 updates
  
